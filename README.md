@@ -6,7 +6,7 @@
 <!-- Typing -->
 <div align="center">
   <a href="https://sixquasar.pro">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C74634&center=true&vCenter=true&width=780&lines=Ag%C3%AAncia+de+IA+e+automa%C3%A7%C3%A3o;Constru%C3%ADmos+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Multi-channel+%E2%80%A2+WhatsApp+%E2%80%A2+Voice+%E2%80%A2+Web;De+Maring%C3%A1+pro+mundo+%F0%9F%8C%8E" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C74634&center=true&vCenter=true&width=800&lines=Ag%C3%AAncia+de+IA+e+automa%C3%A7%C3%A3o;Constru%C3%ADmos+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Plataforma+SixClaw+%E2%80%A2+Multi-channel+%E2%80%A2+Multi-tenant;De+Maring%C3%A1+pro+mundo+%F0%9F%8C%8E" />
   </a>
 </div>
 
@@ -26,49 +26,76 @@
 ```yaml
 empresa:     SixQuasar
 papel:       Agência de IA e automação
-fundadores:  @leonardocandiani
-foco:        agentes conversacionais + automações multi-channel
-mercados:    WhatsApp Business · Voice · Web · CRM
+fundador:    @leonardocandiani
+plataforma:  SixClaw — orquestração de agentes
 local:       Maringá, PR — Brasil
 site:        sixquasar.pro
-diferencial: shipamos agentes que efetivamente fecham negócio,
+diferencial: agentes que efetivamente fecham negócio,
              não chatbots decorativos
 ```
 
 <br clear="right"/>
 
-> **Manifesto**: chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio — operando vendas, atendimento, cotação e suporte ponta a ponta, sem fricção humana.
+> **Manifesto**: chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio — operando vendas, atendimento, cotação, suporte e ligação de telefone ponta a ponta, sem fricção humana.
 
 <br>
 
-## Produtos & operações
+## Produtos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🦾 SixClaw
-Plataforma própria de **orquestração de agentes**. O motor que liga IA conversacional a fluxos de venda, atendimento e back-office. Multi-tenant, multi-channel, multi-model.
+**Plataforma própria** de orquestração de agentes. O motor que conecta IA conversacional a fluxos de venda, atendimento e back-office. Multi-tenant, multi-channel, multi-model.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Ofertix](https://sixquasar.pro)
-Seu **agente de ofertas inteligente**. A IA encontra os melhores preços na Shopee, Mercado Livre e Amazon e te avisa via WhatsApp.
+### 👔 SixClaw CEO
+**Seu executivo de IA. No WhatsApp. 24h por dia.** Produto carro-chefe da SixQuasar — um agente sênior que toma decisões, prioriza, distribui e fecha. Não é assistente, é executivo.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Proteauto
-Operação de **proteção veicular** 100% conduzida por IA: cotação, comparação, vistoria, atendimento e SDR. Cluster que prova a tese da SixClaw no mundo real.
+### 🤝 Cote.Zap
+**Agente de cotações B2B via WhatsApp.** Recebe pedido de cotação, identifica produto, busca fornecedor, negocia preço, formata proposta — tudo em chat. Casos de uso reais em produção.
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 SegSmart
-Operação de **seguros automatizada** por agentes de IA. Cotação, comparação, venda e pós-venda, sem fricção humana.
+### 🛒 [Ofertix](https://sixquasar.pro)
+**Seu agente de ofertas inteligente.** A IA encontra os melhores preços na Shopee, Mercado Livre e Amazon e te avisa via WhatsApp. Produto consumer da casa.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍝 Sixosteria
+**Agente WhatsApp + webapp pra restaurante italiano.** Pedidos, reservas, cardápio inteligente. Instância SixClaw em modo demo — template fundador pra restaurantes.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 EasyQuote
+**Plataforma de cotação B2B via WhatsApp** powered by OpenClaw. Ecossistema completo: cotador → fornecedor → comprador, com agentes especializados em cada lado.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 Vox
+**Sistema empresarial + agente IA.** Conjunto modular: agente vendedora, anúncios, painel admin. Construído pra empresas que precisam de IA conversacional ponta a ponta.
+
+</td>
+<td width="50%" valign="top">
+
+### 💜 Lupe
+**Agregador de dados de vendas com análise de potencial de recompra.** CLI agent-first + painel de instâncias WhatsApp + agente vendedora. Otimizado pra IA.
 
 </td>
 </tr>
@@ -76,13 +103,26 @@ Operação de **seguros automatizada** por agentes de IA. Cotação, comparaçã
 
 <br>
 
+## Plataforma & Tooling
+
+A infraestrutura interna que opera tudo:
+
+- 🎯 **ProjectAgents** — multi-agent system pra agentes específicos por projeto
+- ⛏️ **SixCraft** — orquestração interna (Minecraft + SixClaw) pra fundadores · _será open source_
+- 📋 **SixCraft Atas** — atas de reunião geradas pelo SixCraft
+- 👥 **Team** — sync multi-provider (Claude Code · Codex · Qwen · Gemini) + integração AMUX
+- 🧑‍💼 **Team Manager** — sistema de gestão de equipe
+
+<br>
+
 ## Open Source
 
-A SixQuasar contribui para o ecossistema com ferramentas que usamos no dia a dia:
+A SixQuasar contribui pro ecossistema com ferramentas que usamos no dia a dia:
 
-- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** — skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Coautora: SixQuasar.
+- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** — skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Coautora.
+- 🛡️ **SixGuard** — security scanner open source pra macOS e Linux _(em preparação pra release pública)_
 
-Mais por vir. Sugestões via [Issues](https://github.com/leonardocandiani/setup-projeto-qualidade/issues).
+Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/setup-projeto-qualidade/issues).
 
 <br>
 
@@ -124,10 +164,10 @@ Mais por vir. Sugestões via [Issues](https://github.com/leonardocandiani/setup-
 
 #### Mensageria & Voice
 
-![UAZAPI](https://img.shields.io/badge/-UAZAPI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/-Evolution%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![WhatsApp Business](https://img.shields.io/badge/-WA%20Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 <br>
 
@@ -190,7 +230,7 @@ A filosofia tá codificada em **[setup-projeto-qualidade](https://github.com/leo
 
 Um **quasar** é um objeto astronômico que emite quantidades enormes de energia desde uma região compacta. É um dos fenômenos mais brilhantes do universo conhecido.
 
-A SixQuasar é exatamente isso aplicado à tecnologia: **concentrar capacidade massiva de IA em pontos compactos do negócio** — um agente de WhatsApp que vale por 10 SDRs, uma vistoria automatizada que vale por 5 vistoriadores, uma operação inteira de seguros operando sem operador humano.
+A SixQuasar é exatamente isso aplicado à tecnologia: **concentrar capacidade massiva de IA em pontos compactos do negócio** — um agente de WhatsApp que vale por 10 SDRs, uma cotação inteira fechada em chat, um CEO digital operando 24h, um restaurante atendendo sozinho.
 
 Compacto. Brilhante. Que muda o que você consegue ver de longe.
 

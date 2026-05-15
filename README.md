@@ -26,7 +26,7 @@
 ```yaml
 empresa:     SixQuasar
 papel:       Empresa de tecnologia
-fundadores:  Rodrigo · Ricardo · Leonardo Candiani
+fundadores:  Leonardo Candiani · Ricardo · Rodrigo
 plataforma:  SixClaw — orquestração de agentes
 atuação:     Paraná · Rio de Janeiro · Maranhão
 site:        sixquasar.pro

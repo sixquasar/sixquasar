@@ -28,7 +28,7 @@
 empresa:     SixQuasar
 papel:       Empresa de tecnologia
 fundadores:  Leonardo Candiani · Ricardo · Rodrigo
-plataforma:  SixClaw — orquestração de agentes
+plataforma:  SixClaw · orquestração de agentes
 atuação:     global
 origem:      Paraná · Rio de Janeiro · Maranhão
 site:        sixquasar.pro
@@ -38,7 +38,7 @@ diferencial: agentes que efetivamente fecham negócio,
 
 <br clear="right"/>
 
-> Chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio — operando vendas, atendimento, cotação, suporte e ligação de telefone ponta a ponta, sem fricção humana.
+> Chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio, operando vendas, atendimento, cotação, suporte e ligação de telefone ponta a ponta, sem fricção humana.
 
 <br>
 
@@ -55,7 +55,7 @@ diferencial: agentes que efetivamente fecham negócio,
 <td width="50%" valign="top">
 
 ### 👔 SixClaw CEO
-**Seu executivo de IA. No WhatsApp. 24h por dia.** Produto carro-chefe da SixQuasar — um agente sênior que toma decisões, prioriza, distribui e fecha. Não é assistente, é executivo.
+**Seu executivo de IA. No WhatsApp. 24h por dia.** Produto carro-chefe da SixQuasar. Um agente sênior que toma decisões, prioriza, distribui e fecha. Não é assistente, é executivo.
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ diferencial: agentes que efetivamente fecham negócio,
 <td width="50%" valign="top">
 
 ### 🤝 Cote.Zap
-**Agente de cotações B2B via WhatsApp.** Recebe pedido de cotação, identifica produto, busca fornecedor, negocia preço, formata proposta — tudo em chat. Casos de uso reais em produção.
+**Agente de cotações B2B via WhatsApp.** Recebe pedido de cotação, identifica produto, busca fornecedor, negocia preço, formata proposta. Tudo em chat. Casos de uso reais em produção.
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ diferencial: agentes que efetivamente fecham negócio,
 <td width="50%" valign="top">
 
 ### 🍝 Sixosteria
-**Agente WhatsApp + webapp pra restaurante italiano.** Pedidos, reservas, cardápio inteligente. Instância SixClaw em modo demo — template fundador pra restaurantes.
+**Agente WhatsApp + webapp pra restaurante italiano.** Pedidos, reservas, cardápio inteligente. Instância SixClaw em modo demo, template fundador pra restaurantes.
 
 </td>
 <td width="50%" valign="top">
@@ -109,11 +109,11 @@ diferencial: agentes que efetivamente fecham negócio,
 
 A infraestrutura interna que opera tudo:
 
-- 🎯 **ProjectAgents** — multi-agent system pra agentes específicos por projeto
-- ⛏️ **SixCraft** — orquestração interna (Minecraft + SixClaw) pra fundadores · _será open source_
-- 📋 **SixCraft Atas** — atas de reunião geradas pelo SixCraft
-- 👥 **Team** — sync multi-provider (Claude Code · Codex · Qwen · Gemini) + integração AMUX
-- 🧑‍💼 **Team Manager** — sistema de gestão de equipe
+- 🎯 **ProjectAgents**: multi-agent system pra agentes específicos por projeto
+- ⛏️ **SixCraft**: orquestração interna (Minecraft + SixClaw) pra fundadores · _será open source_
+- 📋 **SixCraft Atas**: atas de reunião geradas pelo SixCraft
+- 👥 **Team**: sync multi-provider (Claude Code · Codex · Qwen · Gemini) + integração AMUX
+- 🧑‍💼 **Team Manager**: sistema de gestão de equipe
 
 <br>
 
@@ -121,8 +121,8 @@ A infraestrutura interna que opera tudo:
 
 A SixQuasar contribui pro ecossistema com ferramentas que usamos no dia a dia:
 
-- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** — skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Coautora.
-- 🛡️ **SixGuard** — security scanner open source pra macOS e Linux _(em preparação pra release pública)_
+- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)**: skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Coautora.
+- 🛡️ **SixGuard**: security scanner open source pra macOS e Linux _(em preparação pra release pública)_
 
 Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/setup-projeto-qualidade/issues).
 
@@ -185,7 +185,7 @@ Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/
 7. OAuth prioritário            (Claude Code via OAuth, não API key)
 ```
 
-A filosofia tá codificada em **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)** — instale e veja em ação.
+A filosofia tá codificada em **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)**: instale e veja em ação.
 
 <br>
 

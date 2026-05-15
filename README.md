@@ -36,7 +36,7 @@ diferencial: agentes que efetivamente fecham negócio,
 
 <br clear="right"/>
 
-> **Manifesto**: chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio — operando vendas, atendimento, cotação, suporte e ligação de telefone ponta a ponta, sem fricção humana.
+> Chatbot que só responde mensagem é coisa do passado. Construímos agentes que conversam, decidem e fecham negócio — operando vendas, atendimento, cotação, suporte e ligação de telefone ponta a ponta, sem fricção humana.
 
 <br>
 
@@ -228,11 +228,9 @@ A filosofia tá codificada em **[setup-projeto-qualidade](https://github.com/leo
 
 <br>
 
-Um **quasar** é um objeto astronômico que emite quantidades enormes de energia desde uma região compacta. É um dos fenômenos mais brilhantes do universo conhecido.
+Um **quasar** é um objeto astronômico que emite quantidades enormes de energia a partir de uma região compacta. Um dos fenômenos mais brilhantes do universo conhecido.
 
-A SixQuasar é exatamente isso aplicado à tecnologia: **concentrar capacidade massiva de IA em pontos compactos do negócio** — um agente de WhatsApp que vale por 10 SDRs, uma cotação inteira fechada em chat, um CEO digital operando 24h, um restaurante atendendo sozinho.
-
-Compacto. Brilhante. Que muda o que você consegue ver de longe.
+A SixQuasar é isso aplicado à tecnologia: concentrar capacidade massiva de IA em pontos compactos do negócio. Um agente de WhatsApp que vale por 10 SDRs. Uma cotação fechada inteira em chat. Um CEO digital operando 24h. Um restaurante atendendo sozinho.
 
 </details>
 

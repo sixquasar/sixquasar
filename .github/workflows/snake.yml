@@ -21,7 +21,7 @@ jobs:
           github_user_name: sixquasar
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#C74634&color_dots=#120B08,#943224,#C74634,#F5E6D3,#FFC107
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#F5E6D3&color_dots=#120B08,#3F1F1A,#6B2620,#943224,#C74634
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

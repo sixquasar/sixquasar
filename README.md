@@ -6,7 +6,7 @@
 <!-- Typing -->
 <div align="center">
   <a href="https://sixquasar.pro">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C74634&center=true&vCenter=true&width=800&lines=Empresa+de+tecnologia.+IA+e+automa%C3%A7%C3%A3o;Constru%C3%ADmos+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Plataforma+SixClaw+%E2%80%A2+Multi-channel+%E2%80%A2+Multi-tenant;Atuando+em+PR+%E2%80%A2+RJ+%E2%80%A2+MA" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C74634&center=true&vCenter=true&width=800&lines=Empresa+de+tecnologia.+IA+e+automa%C3%A7%C3%A3o;Constru%C3%ADmos+agentes+que+conversam%2C+decidem+e+fecham+neg%C3%B3cio;Plataforma+SixClaw+%E2%80%A2+Multi-channel+%E2%80%A2+Multi-tenant;Atua%C3%A7%C3%A3o+global+%E2%80%A2+Origem+PR+%E2%80%A2+RJ+%E2%80%A2+MA" />
   </a>
 </div>
 
@@ -14,7 +14,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sixquasar&label=Profile%20views&color=C74634&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/sixquasar?label=Followers&style=for-the-badge&color=C74634&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PR%20%E2%80%A2%20RJ%20%E2%80%A2%20MA-Brasil-C74634?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-Global-C74634?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Origem-PR%20%E2%80%A2%20RJ%20%E2%80%A2%20MA-F5E6D3?style=for-the-badge&logo=googlemaps&logoColor=120B08" />
 </div>
 
 <br>
@@ -28,7 +29,8 @@ empresa:     SixQuasar
 papel:       Empresa de tecnologia
 fundadores:  Leonardo Candiani · Ricardo · Rodrigo
 plataforma:  SixClaw — orquestração de agentes
-atuação:     Paraná · Rio de Janeiro · Maranhão
+atuação:     global
+origem:      Paraná · Rio de Janeiro · Maranhão
 site:        sixquasar.pro
 diferencial: agentes que efetivamente fecham negócio,
              não chatbots decorativos

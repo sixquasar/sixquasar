@@ -22,7 +22,7 @@
 
 ## Quem somos
 
-<img align="right" alt="SixQuasar" src="https://www.sixquasar.pro/logo.png" width="200" />
+<img align="right" alt="SixQuasar" src="https://github.com/sixquasar.png?size=400" width="200" />
 
 ```yaml
 empresa:     SixQuasar
@@ -121,10 +121,10 @@ A infraestrutura interna que opera tudo:
 
 A SixQuasar contribui pro ecossistema com ferramentas que usamos no dia a dia:
 
-- 🛠️ **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)**: skill Claude Code que aplica arquitetura de qualidade alta em qualquer projeto git. Coautora.
+- 🛠️ **[keepwright](https://github.com/leonardocandiani/keepwright)**: plugin Claude Code que aplica e mantém arquitetura de qualidade alta em qualquer projeto git. Coautora.
 - 🛡️ **SixGuard**: security scanner open source pra macOS e Linux _(em preparação pra release pública)_
 
-Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/setup-projeto-qualidade/issues).
+Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/keepwright/issues).
 
 <br>
 
@@ -185,7 +185,7 @@ Mais por vir. Sugestões e PRs via [Issues](https://github.com/leonardocandiani/
 7. OAuth prioritário            (Claude Code via OAuth, não API key)
 ```
 
-A filosofia tá codificada em **[setup-projeto-qualidade](https://github.com/leonardocandiani/setup-projeto-qualidade)**: instale e veja em ação.
+A filosofia tá codificada em **[keepwright](https://github.com/leonardocandiani/keepwright)**: instale e veja em ação.
 
 <br>
 
